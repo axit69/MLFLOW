@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/604568417240814514/a0d5790a60b34815a143b10c5db8a630/artifacts
+end_time: 1756211643570
+entry_point_name: ''
+experiment_id: '604568417240814514'
+lifecycle_stage: active
+run_id: a0d5790a60b34815a143b10c5db8a630
+run_name: gifted-doe-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756211637190
+status: 3
+tags: []
+user_id: axitm

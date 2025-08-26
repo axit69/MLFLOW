@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/117749625067407344/fd77b05be00a44dfb5de5c97978692c2/artifacts
+deleted_time: 1756208280984
+end_time: 1756208097461
+entry_point_name: ''
+experiment_id: '117749625067407344'
+lifecycle_stage: deleted
+run_id: fd77b05be00a44dfb5de5c97978692c2
+run_name: auspicious-stoat-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756208096889
+status: 3
+tags: []
+user_id: axitm

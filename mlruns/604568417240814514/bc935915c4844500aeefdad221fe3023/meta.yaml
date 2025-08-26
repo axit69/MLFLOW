@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/604568417240814514/bc935915c4844500aeefdad221fe3023/artifacts
+end_time: 1756211904010
+entry_point_name: ''
+experiment_id: '604568417240814514'
+lifecycle_stage: active
+run_id: bc935915c4844500aeefdad221fe3023
+run_name: learned-lynx-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756211897766
+status: 3
+tags: []
+user_id: axitm

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/81ae9ada9f0b496292b576a46ba5ece4/artifacts
+end_time: 1756193196221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81ae9ada9f0b496292b576a46ba5ece4
+run_name: gregarious-hound-353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756193195623
+status: 3
+tags: []
+user_id: axitm

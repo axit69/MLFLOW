@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/969ed14674af4f1d8c1437c10018019f/artifacts
+end_time: 1756191492725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 969ed14674af4f1d8c1437c10018019f
+run_name: kindly-cow-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756191492640
+status: 3
+tags: []
+user_id: axitm
