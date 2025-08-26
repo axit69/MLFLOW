@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/76081c45cd59454bafa4615fd00578e1/artifacts
+end_time: 1756224916495
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: 76081c45cd59454bafa4615fd00578e1
+run_name: luminous-penguin-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224916425
+status: 3
+tags: []
+user_id: axitm

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/196a8c8359b6465d882b74fccdede239/artifacts
+end_time: 1756224916776
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: 196a8c8359b6465d882b74fccdede239
+run_name: sedate-grouse-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224916697
+status: 3
+tags: []
+user_id: axitm

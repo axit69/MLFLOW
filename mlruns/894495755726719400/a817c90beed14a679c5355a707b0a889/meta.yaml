@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/a817c90beed14a679c5355a707b0a889/artifacts
+end_time: 1756224063663
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: a817c90beed14a679c5355a707b0a889
+run_name: dazzling-snipe-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224063643
+status: 3
+tags: []
+user_id: axitm

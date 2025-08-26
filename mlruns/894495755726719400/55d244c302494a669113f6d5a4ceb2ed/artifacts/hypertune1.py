@@ -62,7 +62,7 @@ with mlflow.start_run() as parent:
 
     mlflow.log_artifact(__file__)
 
-    mlflow.sklearn.log_model(grid_search.best_estimator_, 'random_forest', registered_model_name='Breast-cancer-model')
+    mlflow.sklearn.log_model(grid_search.best_estimator_, 'random_forest')
 
     mlflow.set_tag('Author', 'Axit')
 

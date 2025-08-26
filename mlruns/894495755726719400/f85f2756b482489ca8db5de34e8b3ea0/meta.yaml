@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/f85f2756b482489ca8db5de34e8b3ea0/artifacts
+end_time: 1756224063590
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: f85f2756b482489ca8db5de34e8b3ea0
+run_name: adorable-slug-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224063569
+status: 3
+tags: []
+user_id: axitm

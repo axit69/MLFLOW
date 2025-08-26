@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/c003773c00a74686affe4fc160c2bb19/artifacts
+end_time: 1756223132869
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: c003773c00a74686affe4fc160c2bb19
+run_name: respected-yak-696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223126685
+status: 4
+tags: []
+user_id: axitm

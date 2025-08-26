@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/fd4ee3d9c410471294a5b5faff76e89b/artifacts
+end_time: 1756224063566
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: fd4ee3d9c410471294a5b5faff76e89b
+run_name: fearless-tern-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224063545
+status: 3
+tags: []
+user_id: axitm

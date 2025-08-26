@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/2ebb7fd8fa7b431688287a48dcd4bcaa/artifacts
+end_time: 1756224916118
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: 2ebb7fd8fa7b431688287a48dcd4bcaa
+run_name: bright-swan-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224916046
+status: 3
+tags: []
+user_id: axitm

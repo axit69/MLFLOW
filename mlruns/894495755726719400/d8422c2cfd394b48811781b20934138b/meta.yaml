@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/d8422c2cfd394b48811781b20934138b/artifacts
+end_time: 1756224916409
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: d8422c2cfd394b48811781b20934138b
+run_name: serious-snake-590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224916329
+status: 3
+tags: []
+user_id: axitm

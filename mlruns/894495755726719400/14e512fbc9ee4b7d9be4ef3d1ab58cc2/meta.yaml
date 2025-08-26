@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/14e512fbc9ee4b7d9be4ef3d1ab58cc2/artifacts
+end_time: 1756224063415
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: 14e512fbc9ee4b7d9be4ef3d1ab58cc2
+run_name: wistful-squid-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224063375
+status: 3
+tags: []
+user_id: axitm

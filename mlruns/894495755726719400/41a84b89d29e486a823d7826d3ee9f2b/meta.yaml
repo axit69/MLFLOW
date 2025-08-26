@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/41a84b89d29e486a823d7826d3ee9f2b/artifacts
+end_time: 1756223225525
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: 41a84b89d29e486a823d7826d3ee9f2b
+run_name: zealous-mule-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223216443
+status: 3
+tags: []
+user_id: axitm

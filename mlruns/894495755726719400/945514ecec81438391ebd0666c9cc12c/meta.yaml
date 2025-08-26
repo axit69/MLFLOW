@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/945514ecec81438391ebd0666c9cc12c/artifacts
+end_time: 1756224063466
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: 945514ecec81438391ebd0666c9cc12c
+run_name: clumsy-bee-597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224063445
+status: 3
+tags: []
+user_id: axitm

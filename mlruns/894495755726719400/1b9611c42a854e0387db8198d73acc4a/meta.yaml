@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/1b9611c42a854e0387db8198d73acc4a/artifacts
+end_time: 1756224063541
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: 1b9611c42a854e0387db8198d73acc4a
+run_name: adorable-trout-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224063519
+status: 3
+tags: []
+user_id: axitm

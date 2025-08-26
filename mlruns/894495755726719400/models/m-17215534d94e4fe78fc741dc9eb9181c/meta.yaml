@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/models/m-17215534d94e4fe78fc741dc9eb9181c/artifacts
+creation_timestamp: 1756223222485
+experiment_id: '894495755726719400'
+last_updated_timestamp: 1756223225518
+model_id: m-17215534d94e4fe78fc741dc9eb9181c
+model_type: null
+name: random_forest
+source_run_id: 41a84b89d29e486a823d7826d3ee9f2b
+status: 2
+status_message: null

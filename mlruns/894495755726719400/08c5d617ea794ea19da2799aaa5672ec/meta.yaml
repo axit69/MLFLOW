@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/08c5d617ea794ea19da2799aaa5672ec/artifacts
+end_time: 1756224916585
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: 08c5d617ea794ea19da2799aaa5672ec
+run_name: blushing-hare-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224916515
+status: 3
+tags: []
+user_id: axitm

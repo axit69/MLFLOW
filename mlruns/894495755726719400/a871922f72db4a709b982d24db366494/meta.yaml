@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/a871922f72db4a709b982d24db366494/artifacts
+end_time: 1756224916214
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: a871922f72db4a709b982d24db366494
+run_name: welcoming-flea-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224916131
+status: 3
+tags: []
+user_id: axitm

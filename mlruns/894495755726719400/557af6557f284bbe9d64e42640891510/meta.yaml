@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/557af6557f284bbe9d64e42640891510/artifacts
+end_time: 1756222995253
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: 557af6557f284bbe9d64e42640891510
+run_name: traveling-stoat-505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222989064
+status: 4
+tags: []
+user_id: axitm

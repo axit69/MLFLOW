@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/554f9838729b40469d8ebf544b950c42/artifacts
+end_time: 1756224916871
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: 554f9838729b40469d8ebf544b950c42
+run_name: nosy-shrimp-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224916789
+status: 3
+tags: []
+user_id: axitm

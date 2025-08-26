@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400
+creation_time: 1756222988555
+experiment_id: '894495755726719400'
+last_update_time: 1756222988555
+lifecycle_stage: active
+name: breast-cancer-rf-hp

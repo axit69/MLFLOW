@@ -30,14 +30,8 @@ grid_search = GridSearchCV(estimator=rf, param_grid=params_grid, cv=5, n_jobs=-1
 
 mlflow.set_experiment('breast-cancer-rf-hp')
 
-with mlflow.start_run() as parent:
+with mlflow.start_run():
     grid_search.fit(X_train, y_train)
-
-    for i in range(len(grid_search.cv_results_['params'])):
-
-        with mlflow.start_run(nested=True) as child:
-            mlflow.log_params(grid_search.cv_results_['params'][i])
-            mlflow.log_metric('accuracy', grid_search.cv_results_['mean_test_score'][i])
 
     best_params = grid_search.best_params_
     best_score = grid_search.best_score_
@@ -62,7 +56,7 @@ with mlflow.start_run() as parent:
 
     mlflow.log_artifact(__file__)
 
-    mlflow.sklearn.log_model(grid_search.best_estimator_, 'random_forest', registered_model_name='Breast-cancer-model')
+    mlflow.sklearn.log_model(grid_search.best_estimator_, 'random_forest')
 
     mlflow.set_tag('Author', 'Axit')
 

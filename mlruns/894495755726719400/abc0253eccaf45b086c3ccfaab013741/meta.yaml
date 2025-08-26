@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/abc0253eccaf45b086c3ccfaab013741/artifacts
+deleted_time: 1756225480738
+end_time: 1756224921763
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: deleted
+run_id: abc0253eccaf45b086c3ccfaab013741
+run_name: bald-ray-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224909289
+status: 3
+tags: []
+user_id: axitm

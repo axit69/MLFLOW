@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/dbf621288dd743689f4d66099269bbdb/artifacts
+end_time: 1756224916313
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: dbf621288dd743689f4d66099269bbdb
+run_name: chill-elk-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224916226
+status: 3
+tags: []
+user_id: axitm

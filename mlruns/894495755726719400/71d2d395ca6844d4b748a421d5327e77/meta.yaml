@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/71d2d395ca6844d4b748a421d5327e77/artifacts
+end_time: 1756224063441
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: 71d2d395ca6844d4b748a421d5327e77
+run_name: hilarious-wasp-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224063419
+status: 3
+tags: []
+user_id: axitm

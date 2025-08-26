@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/c17530bb79184dbd849ed3f864b599ba/artifacts
+end_time: 1756224063516
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: c17530bb79184dbd849ed3f864b599ba
+run_name: silent-wolf-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224063495
+status: 3
+tags: []
+user_id: axitm

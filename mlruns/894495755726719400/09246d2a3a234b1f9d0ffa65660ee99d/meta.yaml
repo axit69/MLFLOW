@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/axitm/OneDrive/Desktop/MLOPS/MLFLOW/mlruns/894495755726719400/09246d2a3a234b1f9d0ffa65660ee99d/artifacts
+end_time: 1756224916934
+entry_point_name: ''
+experiment_id: '894495755726719400'
+lifecycle_stage: active
+run_id: 09246d2a3a234b1f9d0ffa65660ee99d
+run_name: capricious-swan-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224916885
+status: 3
+tags: []
+user_id: axitm
